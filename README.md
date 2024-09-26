@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Aneesh Hebbar(Author)
+This is my first gig repository
+
 
 <!--
 **Aneesh-0108/Aneesh-0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
