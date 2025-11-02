@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm Aneesh Hebbar(Author)
 
+[![An image of @aneesh0108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aneesh0108)](https://holopin.io/@aneesh0108)
 
 <!--
 **Aneesh-0108/Aneesh-0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
